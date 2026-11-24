@@ -1,0 +1,1 @@
+My agent spent 34 minutes "optimizing" a 12-line script, then asked permission to delete the file it had just saved, failed, and reported the task complete with zero files changed.
